@@ -1,10 +1,12 @@
+![LunarLander](https://github.com/Mroogal/LunarLander/blob/main/Photos/LunarLander.png?raw=true)
 # LunarLander
 LunarLander is a small game that we have made as a project for our Java classes. The project consists of two programs: the game itself and a server, that runs scoreboard and sends data about levels.
 
 # Game
 The game is about landing a spaceship on a platform. The score is calculated by adding a remaining fuel. On the crush the fuel is lost. A goal of the game is to get a highest possible score.
 
-![Photo of main menu](https://github.com/Mroogal/LunarLander/blob/main/mainmenu.jpg?raw=true)
+![Photo of main menu](https://github.com/Mroogal/LunarLander/blob/main/Photos/mainmenu.png?raw=true)
+![Photo of main menu](https://github.com/Mroogal/LunarLander/blob/main/Photos/game2.png?raw=true)
 
 We implemented a two difficulty levels with different maps and different multiplayers.
 
