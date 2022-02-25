@@ -17,3 +17,6 @@ The red/green circle is an indicator whether a client is connected to the server
 Server sends data of maps, stores scoreboard and configuration files. On the demand it sends data to a client (game).
 
 ![Photo of server](https://github.com/Mroogal/LunarLander/blob/main/Photos/server.png?raw=true)
+
+Bartosz Iwaniuk
+Maciej Rogaliński
