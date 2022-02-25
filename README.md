@@ -4,6 +4,8 @@ LunarLander is a small game that we have made as a project for our Java classes.
 # Game
 The game is about landing a spaceship on a platform. The score is calculated by adding a remaining fuel. On the crush the fuel is lost. A goal of the game is to get a highest possible score.
 
+![Photo of main menu](https://github.com/Mroogal/LunarLander/blob/main/mainmenu.jpg?raw=true)
+
 We implemented a two difficulty levels with different maps and different multiplayers.
 
 Pressing a **P** during game will show a quick menu with control options where you can choose between **WSAD**/**Arrows**.
