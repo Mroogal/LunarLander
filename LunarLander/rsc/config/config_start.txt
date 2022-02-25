@@ -1,0 +1,11 @@
+WindowHeight=600
+WindowWidth=800
+StartFuelValue=400
+StartVX=0
+StartVY=0
+StartXPoint=400
+StartYPoint=50
+LandingV=1.5
+LevelsHard=2
+LevelsEasy=2
+//wartosci zostały wpisane losowo

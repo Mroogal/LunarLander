@@ -1,0 +1,3 @@
+Port=10000
+WindowWidth=400
+WindowHeight=400
