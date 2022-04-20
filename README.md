@@ -18,5 +18,5 @@ Server sends data of maps, stores scoreboard and configuration files. On the dem
 
 ![Photo of server](https://github.com/Mroogal/LunarLander/blob/main/Photos/server.png?raw=true)
 
-Bartosz Iwaniuk /
-Maciej Rogaliński
+[Bartosz Iwaniuk (biwaniuk)](https://github.com/biwaniuk) /
+[Maciej Rogaliński (Mroogal)](https://github.com/Mroogal)
